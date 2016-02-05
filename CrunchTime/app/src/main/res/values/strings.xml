@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="exercises">
+        <item>None Selected</item>
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Squats</item>
+        <item>Leg-lift</item>
+        <item>Plank</item>
+        <item>Jumping Jacks</item>
+        <item>Pullup</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+    <string-array name="exercisesAndReps">
+        <item>Pushup: 350 Reps</item>
+        <item>Situp: 200 Reps</item>
+        <item>Squats: 225 Reps</item>
+        <item>Leg-lift: 25 Mins</item>
+        <item>Plank: 25 Mins</item>
+        <item>Jumping Jacks: 10 Mins</item>
+        <item>Pullup: 100 Reps</item>
+        <item>Cycling: 12 Mins</item>
+        <item>Walking: 20 Mins</item>
+        <item>Jogging: 12 Mins</item>
+        <item>Swimming: 13 Mins</item>
+        <item>Stair-Climbing: 15 Mins</item>
+    </string-array>
+</resources>

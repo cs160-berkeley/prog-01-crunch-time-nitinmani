@@ -1,18 +1,18 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+CrunchTime is an application that provides many functionalities. Users who want to find out how many calories they burned from a workout can do so through this application. Moreover, if they want to find out how hard they have to work out to burn a certain "goal" amount of calories, they can also do that with this application.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Nitin Manivasagan ([nitinmani@berkeley.edu](mailto:nitinmani@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [CS 160: CrunchTime] (https://youtu.be/DCst5qvrvBI)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/TitleScreen.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
